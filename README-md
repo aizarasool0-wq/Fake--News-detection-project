@@ -1,0 +1,60 @@
+# 📰 Fake News Detection Project
+
+### 📘 Overview
+This repository contains a series of Data Science and AI assignments focused on *Fake News Detection* using *Machine Learning* and *Natural Language Processing (NLP)*.  
+The goal is to explore, preprocess, and model real-world news data to classify whether an article is *real* or *fake*.
+
+---
+
+### 📂 Repository Structure
+### 🧠 Project Objectives
+- Understand and explore the *Fake vs. True* news dataset.  
+- Perform *text preprocessing* (cleaning, tokenization, stopword removal).  
+- Extract features using *TF-IDF* or *Bag of Words*.  
+- Train *classification models* (Logistic Regression, Naive Bayes, etc.).  
+- Evaluate model performance with accuracy, precision, recall, and F1-score.
+
+---
+
+### 🗂 Dataset Details
+*Source:* Kaggle – [Fake and True News Dataset](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset)
+
+*Files:*
+- Fake.csv → Contains fake news articles.
+- True.csv → Contains real news articles.
+
+Each file includes:
+- title → Headline of the news article  
+- text → Full text content  
+- subject → Category of the news  
+- date → Publication date
+
+---
+
+### 📊 Results (To Be Updated)
+| Assignment | Task | Key Results |
+|-------------|------|--------------|
+| 1 | Data Exploration | ✅ Loaded datasets, viewed first 10 rows, checked for missing values |
+| 2 | Text Preprocessing | ⏳ In progress – cleaning and preparing data for model |
+| 3 | Model Building | 🔜 Planned – training classification models |
+
+---
+
+### 🛠 Technologies Used
+- Python 🐍  
+- Pandas, NumPy  
+- Matplotlib, Seaborn  
+- Scikit-learn  
+- Natural Language Toolkit (NLTK)
+
+---
+
+### 👩‍💻 Author
+Aiza Rasool  
+Data Science Student | AI Enthusiast | Project: Fake News Detection  
+
+---
+
+### 💬 Notes
+This repository will be updated as new assignments are completed.  
+Each notebook demonstrates a different stage of the fake news detection workflow — from *data exploration* to *model evaluation*.
